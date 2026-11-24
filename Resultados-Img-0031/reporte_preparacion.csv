@@ -1,0 +1,11 @@
+Categoría,Archivo original,Lectura,Ancho original,Alto original,Ancho preparado,Alto preparado,Valor mínimo norm.,Valor máximo norm.,Evaluación
+Boxeadores,Boxeador-1.jpg,OK,1200,954,224,224,0.02,1.0,APROBADA
+Boxeadores,Boxeador-2.jpg,OK,547,365,224,224,0.0,1.0,APROBADA
+Boxeadores,Boxeador-3.jpg,OK,468,655,224,224,0.0,1.0,APROBADA
+Boxeadores,Boxeador-4.jpg,ERROR,-,-,-,-,-,-,REVISAR
+Boxeadores,Boxeador-5.jpg,OK,554,554,224,224,0.0,0.988,APROBADA
+Luchadores,Luchador-1.jpg,OK,736,781,224,224,0.0,1.0,APROBADA
+Luchadores,Luchador-2.jpg,ERROR,-,-,-,-,-,-,REVISAR
+Luchadores,Luchador-3.jpg,OK,554,554,224,224,0.0,0.984,APROBADA
+Luchadores,Luchador-4.jpg,OK,399,501,224,224,0.008,1.0,APROBADA
+Luchadores,Luchador-5.jpg,OK,374,534,224,224,0.0,1.0,APROBADA
